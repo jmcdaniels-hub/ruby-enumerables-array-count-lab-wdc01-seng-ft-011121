@@ -4,9 +4,9 @@ def count_strings(array)
     if element == String
       total +=1
     end   
-     total
+     
   end  
-    
+    total
   
   # Return the total number of strings in the provided array using the count enumerable
 end
